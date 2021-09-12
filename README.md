@@ -12,16 +12,46 @@ Lunachow (LUCHOW) - The first DeFi token with an aggressive burn structure. 💯
 💰 1 Billion tokens sent to Vitalik Buterin
 
 0️⃣  Zero team allocation
+
 🔐  Locked Liquidity
+
 👀 Check out video: https://www.youtube.com/watch?v=V6c_PIc7OjY&t=1s
 
+***********Links**************
+
 ⚡️ Website:  www.lunachow.com
+
 ⚡️ Twitter: https://twitter.com/LunaChoww 
+
 ⚡️ Telegram: https://t.me/LuChow 
+
 ⚡️  Reddit: https://www.reddit.com/user/Luna-Chow 
-Contracts
+
+⚡️  GitHub: https://github.com/lunachoww
+
+⚡️  Facebook: https://www.facebook.com/LunaChowOfficial
+
+⚡️  Instagram: https://www.instagram.com/lunachow.io/
+
+⚡️  Discord: https://discord.gg/FBz7dGkxgv
+
+⚡️  BitcoinTalk: https://bitcointalk.org/index.php?action=profile;u=3359546;sa=account
+
+⚡️ Pinterest: https://www.pinterest.com/Luna_chow
+
+⚡️ Medium: https://medium.com/@LunaChoww
+
+⚡️ Slack: https://app.slack.com/client/T02932063KM/C029FF9LHK3
+
+⚡️ YouTube: https://www.youtube.com/channel/UCGCKCs6RVg5asAJf2YNVnbA
+
+*******Contract Address********
+
 ▫️ ERC20: 0xa5ef74068d04ba0809b7379dd76af5ce34ab7c57
+
 ▫️ BEP20: 0xe4e8e6878718bfe533702d4a6571eb74d79b0915
+
+
 💳 Buy on Pancakeswap:
 https://pancakeswap.finance/swap#/swap?outputCurrency=0xe4e8e6878718bfe533702d4a6571eb74d79b0915
 
