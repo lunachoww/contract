@@ -4,9 +4,13 @@ README.md
 Lunachow (LUCHOW) - The first DeFi token with an aggressive burn structure. 💯% community-driven. LunaChow was deployed on Ethereum network (ERC-20) with a fractional bridge on BSC chain (BEP20). 99.9% burned immediately after deployment. 
 
 🚀  The People’s Token 🚀
+
 ↗️   Fair Launch, No Private Sale/ICO
+
 🔥  99.9% of Initial total supply burned
+
 💰 1 Billion tokens sent to Vitalik Buterin
+
 0️⃣  Zero team allocation
 🔐  Locked Liquidity
 👀 Check out video: https://www.youtube.com/watch?v=V6c_PIc7OjY&t=1s
