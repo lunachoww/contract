@@ -5,6 +5,10 @@ Lunachow (LUCHOW) - The first DeFi token with an aggressive burn structure. 💯
 
 🚀  The People’s Token 🚀
 
+↗️  Initial Total Supply: 1,000,000,000,000,000
+
+↗️  Burned Token: 999,000,000,000,000
+
 ↗️   Fair Launch, No Private Sale/ICO
 
 🔥  99.9% of Initial total supply burned
@@ -15,9 +19,26 @@ Lunachow (LUCHOW) - The first DeFi token with an aggressive burn structure. 💯
 
 🔐  Locked Liquidity
 
+********Token Allocation
+
+liquidity Pool: 999,000,000,000
+
+Team: 0
+
+Vitalik Buterin: 1,000,000,000
+
+*************Review Videos
+
+https://youtu.be/7eHI2vv8epk
+
+https://www.youtube.com/watch?v=mW2f-3fzzyw
+
+https://youtu.be/qKUT-kAuBDw
+
 👀 Check out video: https://www.youtube.com/watch?v=V6c_PIc7OjY&t=1s
 
-***********Links**************
+
+***********Social Network
 
 ⚡️ Website:  www.lunachow.com
 
@@ -27,7 +48,7 @@ Lunachow (LUCHOW) - The first DeFi token with an aggressive burn structure. 💯
 
 ⚡️  Reddit: https://www.reddit.com/user/Luna-Chow 
 
-⚡️  GitHub: https://github.com/lunachoww
+⚡️  GitHub: https://github.com/lunachoww/contract
 
 ⚡️  Facebook: https://www.facebook.com/LunaChowOfficial
 
@@ -45,7 +66,17 @@ Lunachow (LUCHOW) - The first DeFi token with an aggressive burn structure. 💯
 
 ⚡️ YouTube: https://www.youtube.com/channel/UCGCKCs6RVg5asAJf2YNVnbA
 
-*******Contract Address********
+**********Utility
+
+↗️  Marketplace (NFT & Gift)
+
+↗️  Digital Currency (Settlement)
+
+↗️  Wallet 
+
+↗️  Charity Drive
+
+*********Contract Address
 
 ▫️ ERC20: 0xa5ef74068d04ba0809b7379dd76af5ce34ab7c57
 
